@@ -1,5 +1,5 @@
 # CS261-Computer-Networks
-Handouts, Postman tests, majority of the code for the game folder in assignment 6 was provided by instructor. In the game folder, I updated UserLoginState.cpp to perform a series of actions:
+Handouts, Postman tests, majority of the C++ code for the game folder in assignment 6 was provided by instructor. In the game folder, I updated UserLoginState.cpp to perform a series of actions:
 - Login
 - Retrive login response data
 - Use the login data plus game type to call connect on the user service, and extract data from the connect response and store it in the client configuration.
